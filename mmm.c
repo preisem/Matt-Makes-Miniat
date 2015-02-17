@@ -18,7 +18,7 @@
 int main(int argc, char **argv){
 
 if (argc != 2) {
-		fprintf(stderr, "You must specify a bin file name to run");
+		fprintf(stderr, "You must specify a asm file name to run");
 	}	
 	
 /* creating arrays for filenames */
